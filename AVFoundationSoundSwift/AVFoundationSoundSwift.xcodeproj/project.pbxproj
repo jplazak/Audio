@@ -34,16 +34,16 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		A38C7DF01D76FB36004BFB84 /* avFoundationSoundSwift.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = avFoundationSoundSwift.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		A38C7DF01D76FB36004BFB84 /* AVFoundationSoundSwift.temp_caseinsensitive_rename.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = AVFoundationSoundSwift.temp_caseinsensitive_rename.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		A38C7DF31D76FB36004BFB84 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		A38C7DF51D76FB36004BFB84 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
 		A38C7DFA1D76FB36004BFB84 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		A38C7DFD1D76FB36004BFB84 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		A38C7DFF1D76FB36004BFB84 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		A38C7E041D76FB36004BFB84 /* avFoundationSoundSwiftTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = avFoundationSoundSwiftTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		A38C7E041D76FB36004BFB84 /* AVFoundationSoundSwift.temp_caseinsensitive_rename.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = AVFoundationSoundSwift.temp_caseinsensitive_rename.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		A38C7E081D76FB36004BFB84 /* avFoundationSoundSwiftTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = avFoundationSoundSwiftTests.swift; sourceTree = "<group>"; };
 		A38C7E0A1D76FB36004BFB84 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		A38C7E0F1D76FB36004BFB84 /* avFoundationSoundSwiftUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = avFoundationSoundSwiftUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		A38C7E0F1D76FB36004BFB84 /* AVFoundationSoundSwift.temp_caseinsensitive_rename.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = AVFoundationSoundSwift.temp_caseinsensitive_rename.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		A38C7E131D76FB36004BFB84 /* avFoundationSoundSwiftUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = avFoundationSoundSwiftUITests.swift; sourceTree = "<group>"; };
 		A38C7E151D76FB36004BFB84 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		A38C7E211D7703B8004BFB84 /* musicTrack.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = musicTrack.mp3; sourceTree = "<group>"; };
@@ -87,9 +87,9 @@
 		A38C7DF11D76FB36004BFB84 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				A38C7DF01D76FB36004BFB84 /* avFoundationSoundSwift.app */,
-				A38C7E041D76FB36004BFB84 /* avFoundationSoundSwiftTests.xctest */,
-				A38C7E0F1D76FB36004BFB84 /* avFoundationSoundSwiftUITests.xctest */,
+				A38C7DF01D76FB36004BFB84 /* AVFoundationSoundSwift.temp_caseinsensitive_rename.app */,
+				A38C7E041D76FB36004BFB84 /* AVFoundationSoundSwift.temp_caseinsensitive_rename.xctest */,
+				A38C7E0F1D76FB36004BFB84 /* AVFoundationSoundSwift.temp_caseinsensitive_rename.xctest */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -128,9 +128,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		A38C7DEF1D76FB36004BFB84 /* avFoundationSoundSwift */ = {
+		A38C7DEF1D76FB36004BFB84 /* AVFoundationSoundSwift */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = A38C7E181D76FB36004BFB84 /* Build configuration list for PBXNativeTarget "avFoundationSoundSwift" */;
+			buildConfigurationList = A38C7E181D76FB36004BFB84 /* Build configuration list for PBXNativeTarget "AVFoundationSoundSwift" */;
 			buildPhases = (
 				A38C7DEC1D76FB36004BFB84 /* Sources */,
 				A38C7DED1D76FB36004BFB84 /* Frameworks */,
@@ -140,14 +140,14 @@
 			);
 			dependencies = (
 			);
-			name = avFoundationSoundSwift;
+			name = AVFoundationSoundSwift;
 			productName = avFoundationSoundSwift;
-			productReference = A38C7DF01D76FB36004BFB84 /* avFoundationSoundSwift.app */;
+			productReference = A38C7DF01D76FB36004BFB84 /* AVFoundationSoundSwift.temp_caseinsensitive_rename.app */;
 			productType = "com.apple.product-type.application";
 		};
-		A38C7E031D76FB36004BFB84 /* avFoundationSoundSwiftTests */ = {
+		A38C7E031D76FB36004BFB84 /* AVFoundationSoundSwiftTests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = A38C7E1B1D76FB36004BFB84 /* Build configuration list for PBXNativeTarget "avFoundationSoundSwiftTests" */;
+			buildConfigurationList = A38C7E1B1D76FB36004BFB84 /* Build configuration list for PBXNativeTarget "AVFoundationSoundSwiftTests" */;
 			buildPhases = (
 				A38C7E001D76FB36004BFB84 /* Sources */,
 				A38C7E011D76FB36004BFB84 /* Frameworks */,
@@ -158,14 +158,14 @@
 			dependencies = (
 				A38C7E061D76FB36004BFB84 /* PBXTargetDependency */,
 			);
-			name = avFoundationSoundSwiftTests;
+			name = AVFoundationSoundSwiftTests;
 			productName = avFoundationSoundSwiftTests;
-			productReference = A38C7E041D76FB36004BFB84 /* avFoundationSoundSwiftTests.xctest */;
+			productReference = A38C7E041D76FB36004BFB84 /* AVFoundationSoundSwift.temp_caseinsensitive_rename.xctest */;
 			productType = "com.apple.product-type.bundle.unit-test";
 		};
-		A38C7E0E1D76FB36004BFB84 /* avFoundationSoundSwiftUITests */ = {
+		A38C7E0E1D76FB36004BFB84 /* AVFoundationSoundSwiftUITests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = A38C7E1E1D76FB36004BFB84 /* Build configuration list for PBXNativeTarget "avFoundationSoundSwiftUITests" */;
+			buildConfigurationList = A38C7E1E1D76FB36004BFB84 /* Build configuration list for PBXNativeTarget "AVFoundationSoundSwiftUITests" */;
 			buildPhases = (
 				A38C7E0B1D76FB36004BFB84 /* Sources */,
 				A38C7E0C1D76FB36004BFB84 /* Frameworks */,
@@ -176,9 +176,9 @@
 			dependencies = (
 				A38C7E111D76FB36004BFB84 /* PBXTargetDependency */,
 			);
-			name = avFoundationSoundSwiftUITests;
+			name = AVFoundationSoundSwiftUITests;
 			productName = avFoundationSoundSwiftUITests;
-			productReference = A38C7E0F1D76FB36004BFB84 /* avFoundationSoundSwiftUITests.xctest */;
+			productReference = A38C7E0F1D76FB36004BFB84 /* AVFoundationSoundSwift.temp_caseinsensitive_rename.xctest */;
 			productType = "com.apple.product-type.bundle.ui-testing";
 		};
 /* End PBXNativeTarget section */
@@ -204,7 +204,7 @@
 					};
 				};
 			};
-			buildConfigurationList = A38C7DEB1D76FB36004BFB84 /* Build configuration list for PBXProject "avFoundationSoundSwift" */;
+			buildConfigurationList = A38C7DEB1D76FB36004BFB84 /* Build configuration list for PBXProject "AVFoundationSoundSwift" */;
 			compatibilityVersion = "Xcode 3.2";
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
@@ -217,9 +217,9 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				A38C7DEF1D76FB36004BFB84 /* avFoundationSoundSwift */,
-				A38C7E031D76FB36004BFB84 /* avFoundationSoundSwiftTests */,
-				A38C7E0E1D76FB36004BFB84 /* avFoundationSoundSwiftUITests */,
+				A38C7DEF1D76FB36004BFB84 /* AVFoundationSoundSwift */,
+				A38C7E031D76FB36004BFB84 /* AVFoundationSoundSwiftTests */,
+				A38C7E0E1D76FB36004BFB84 /* AVFoundationSoundSwiftUITests */,
 			);
 		};
 /* End PBXProject section */
@@ -282,12 +282,12 @@
 /* Begin PBXTargetDependency section */
 		A38C7E061D76FB36004BFB84 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = A38C7DEF1D76FB36004BFB84 /* avFoundationSoundSwift */;
+			target = A38C7DEF1D76FB36004BFB84 /* AVFoundationSoundSwift */;
 			targetProxy = A38C7E051D76FB36004BFB84 /* PBXContainerItemProxy */;
 		};
 		A38C7E111D76FB36004BFB84 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = A38C7DEF1D76FB36004BFB84 /* avFoundationSoundSwift */;
+			target = A38C7DEF1D76FB36004BFB84 /* AVFoundationSoundSwift */;
 			targetProxy = A38C7E101D76FB36004BFB84 /* PBXContainerItemProxy */;
 		};
 /* End PBXTargetDependency section */
@@ -396,7 +396,7 @@
 				INFOPLIST_FILE = avFoundationSoundSwift/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.jsplazak.avFoundationSoundSwift;
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				PRODUCT_NAME = AVFoundationSoundSwift.temp_caseinsensitive_rename;
 			};
 			name = Debug;
 		};
@@ -407,7 +407,7 @@
 				INFOPLIST_FILE = avFoundationSoundSwift/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.jsplazak.avFoundationSoundSwift;
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				PRODUCT_NAME = AVFoundationSoundSwift.temp_caseinsensitive_rename;
 			};
 			name = Release;
 		};
@@ -418,8 +418,8 @@
 				INFOPLIST_FILE = avFoundationSoundSwiftTests/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.jsplazak.avFoundationSoundSwiftTests;
-				PRODUCT_NAME = "$(TARGET_NAME)";
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/avFoundationSoundSwift.app/avFoundationSoundSwift";
+				PRODUCT_NAME = AVFoundationSoundSwift.temp_caseinsensitive_rename;
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/AVFoundationSoundSwift.temp_caseinsensitive_rename.app/AVFoundationSoundSwift.temp_caseinsensitive_rename";
 			};
 			name = Debug;
 		};
@@ -430,8 +430,8 @@
 				INFOPLIST_FILE = avFoundationSoundSwiftTests/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.jsplazak.avFoundationSoundSwiftTests;
-				PRODUCT_NAME = "$(TARGET_NAME)";
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/avFoundationSoundSwift.app/avFoundationSoundSwift";
+				PRODUCT_NAME = AVFoundationSoundSwift.temp_caseinsensitive_rename;
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/AVFoundationSoundSwift.temp_caseinsensitive_rename.app/AVFoundationSoundSwift.temp_caseinsensitive_rename";
 			};
 			name = Release;
 		};
@@ -441,7 +441,7 @@
 				INFOPLIST_FILE = avFoundationSoundSwiftUITests/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.jsplazak.avFoundationSoundSwiftUITests;
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				PRODUCT_NAME = AVFoundationSoundSwift.temp_caseinsensitive_rename;
 				TEST_TARGET_NAME = avFoundationSoundSwift;
 			};
 			name = Debug;
@@ -452,7 +452,7 @@
 				INFOPLIST_FILE = avFoundationSoundSwiftUITests/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.jsplazak.avFoundationSoundSwiftUITests;
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				PRODUCT_NAME = AVFoundationSoundSwift.temp_caseinsensitive_rename;
 				TEST_TARGET_NAME = avFoundationSoundSwift;
 			};
 			name = Release;
@@ -460,7 +460,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		A38C7DEB1D76FB36004BFB84 /* Build configuration list for PBXProject "avFoundationSoundSwift" */ = {
+		A38C7DEB1D76FB36004BFB84 /* Build configuration list for PBXProject "AVFoundationSoundSwift" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				A38C7E161D76FB36004BFB84 /* Debug */,
@@ -469,29 +469,32 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		A38C7E181D76FB36004BFB84 /* Build configuration list for PBXNativeTarget "avFoundationSoundSwift" */ = {
+		A38C7E181D76FB36004BFB84 /* Build configuration list for PBXNativeTarget "AVFoundationSoundSwift" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				A38C7E191D76FB36004BFB84 /* Debug */,
 				A38C7E1A1D76FB36004BFB84 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
-		A38C7E1B1D76FB36004BFB84 /* Build configuration list for PBXNativeTarget "avFoundationSoundSwiftTests" */ = {
+		A38C7E1B1D76FB36004BFB84 /* Build configuration list for PBXNativeTarget "AVFoundationSoundSwiftTests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				A38C7E1C1D76FB36004BFB84 /* Debug */,
 				A38C7E1D1D76FB36004BFB84 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
-		A38C7E1E1D76FB36004BFB84 /* Build configuration list for PBXNativeTarget "avFoundationSoundSwiftUITests" */ = {
+		A38C7E1E1D76FB36004BFB84 /* Build configuration list for PBXNativeTarget "AVFoundationSoundSwiftUITests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				A38C7E1F1D76FB36004BFB84 /* Debug */,
 				A38C7E201D76FB36004BFB84 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};

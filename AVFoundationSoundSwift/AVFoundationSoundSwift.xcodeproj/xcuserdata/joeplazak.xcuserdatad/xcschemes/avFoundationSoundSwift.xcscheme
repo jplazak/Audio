@@ -15,9 +15,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "A38C7DEF1D76FB36004BFB84"
-               BuildableName = "avFoundationSoundSwift.app"
-               BlueprintName = "avFoundationSoundSwift"
-               ReferencedContainer = "container:avFoundationSoundSwift.xcodeproj">
+               BuildableName = "AVFoundationSoundSwift.temp_caseinsensitive_rename.app"
+               BlueprintName = "AVFoundationSoundSwift"
+               ReferencedContainer = "container:AVFoundationSoundSwift.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -33,9 +33,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "A38C7E031D76FB36004BFB84"
-               BuildableName = "avFoundationSoundSwiftTests.xctest"
-               BlueprintName = "avFoundationSoundSwiftTests"
-               ReferencedContainer = "container:avFoundationSoundSwift.xcodeproj">
+               BuildableName = "AVFoundationSoundSwift.temp_caseinsensitive_rename.xctest"
+               BlueprintName = "AVFoundationSoundSwiftTests"
+               ReferencedContainer = "container:AVFoundationSoundSwift.xcodeproj">
             </BuildableReference>
          </TestableReference>
          <TestableReference
@@ -43,9 +43,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "A38C7E0E1D76FB36004BFB84"
-               BuildableName = "avFoundationSoundSwiftUITests.xctest"
-               BlueprintName = "avFoundationSoundSwiftUITests"
-               ReferencedContainer = "container:avFoundationSoundSwift.xcodeproj">
+               BuildableName = "AVFoundationSoundSwift.temp_caseinsensitive_rename.xctest"
+               BlueprintName = "AVFoundationSoundSwiftUITests"
+               ReferencedContainer = "container:AVFoundationSoundSwift.xcodeproj">
             </BuildableReference>
          </TestableReference>
       </Testables>
@@ -53,9 +53,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "A38C7DEF1D76FB36004BFB84"
-            BuildableName = "avFoundationSoundSwift.app"
-            BlueprintName = "avFoundationSoundSwift"
-            ReferencedContainer = "container:avFoundationSoundSwift.xcodeproj">
+            BuildableName = "AVFoundationSoundSwift.temp_caseinsensitive_rename.app"
+            BlueprintName = "AVFoundationSoundSwift"
+            ReferencedContainer = "container:AVFoundationSoundSwift.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
       <AdditionalOptions>
@@ -76,9 +76,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "A38C7DEF1D76FB36004BFB84"
-            BuildableName = "avFoundationSoundSwift.app"
-            BlueprintName = "avFoundationSoundSwift"
-            ReferencedContainer = "container:avFoundationSoundSwift.xcodeproj">
+            BuildableName = "AVFoundationSoundSwift.temp_caseinsensitive_rename.app"
+            BlueprintName = "AVFoundationSoundSwift"
+            ReferencedContainer = "container:AVFoundationSoundSwift.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -95,9 +95,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "A38C7DEF1D76FB36004BFB84"
-            BuildableName = "avFoundationSoundSwift.app"
-            BlueprintName = "avFoundationSoundSwift"
-            ReferencedContainer = "container:avFoundationSoundSwift.xcodeproj">
+            BuildableName = "AVFoundationSoundSwift.temp_caseinsensitive_rename.app"
+            BlueprintName = "AVFoundationSoundSwift"
+            ReferencedContainer = "container:AVFoundationSoundSwift.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>
