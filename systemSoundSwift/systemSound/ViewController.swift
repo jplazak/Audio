@@ -7,36 +7,32 @@
 //
 //  Created by Joe Plazak on 8/30/16.
 //
-//
 
 //Import Required Frameworks
 import UIKit
 import AudioToolbox
 
-//systemSound Variables
-var soundID: SystemSoundID = 0
-let mainBundle: CFBundleRef = CFBundleGetMainBundle()
-
-//UI Interface Variables
-let playSystemSoundButton = UIButton()  //Without Vibration
-let playAlertSoundButton = UIButton()   //With Vibration
-
 //ViewController Setup
 class ViewController: UIViewController {
+    
+    //systemSound Variables
+    var soundID: SystemSoundID = 0
+    let mainBundle: CFBundleRef = CFBundleGetMainBundle()
+    
+    //UI Interface Variables
+    let playSystemSoundButton = UIButton()  //Without Vibration
+    let playAlertSoundButton = UIButton()   //With Vibration
+    
+    //Initialization
     override func viewDidLoad() {
         super.viewDidLoad()
-        setupAudio()
         setupGUI()
+        setupAudio()
     }
     
-    //systemSound Setup
-    func setupAudio() {
-        if let ref: CFURLRef = CFBundleCopyResourceURL(mainBundle,"sillySound", "wav", nil){
-            AudioServicesCreateSystemSoundID(ref, &soundID)
-            print("\(ref) was properly loaded")
-        } else {
-            print("Audio file not found")
-        }
+    //Memory Method
+    override func didReceiveMemoryWarning() {
+        super.didReceiveMemoryWarning()
     }
     
     //GUI Setup (Programmatically)
@@ -56,6 +52,17 @@ class ViewController: UIViewController {
         self.view.addSubview(playAlertSoundButton)
     }
 
+    //MARK: - systemSoundMethods
+    //systemSound Setup
+    func setupAudio() {
+        if let ref: CFURLRef = CFBundleCopyResourceURL(mainBundle,"sillySound", "wav", nil){
+            AudioServicesCreateSystemSoundID(ref, &soundID)
+            print("\(ref) was properly loaded")
+        } else {
+            print("Audio file not found")
+        }
+    }
+    
     //Play systemSound Method (WITHOUT Vibration)
     func playSound() {
         AudioServicesPlaySystemSound(soundID)
@@ -71,11 +78,6 @@ class ViewController: UIViewController {
     //Release manual systemSound Resource (Deallocate method)
     deinit {
         AudioServicesDisposeSystemSoundID(soundID)
-    }
-    
-    //Memory Method
-    override func didReceiveMemoryWarning() {
-        super.didReceiveMemoryWarning()
     }
 }
 
