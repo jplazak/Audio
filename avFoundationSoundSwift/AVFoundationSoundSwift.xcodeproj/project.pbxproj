@@ -128,9 +128,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		A38C7DEF1D76FB36004BFB84 /* avFoundationSoundSwift */ = {
+		A38C7DEF1D76FB36004BFB84 /* AVFoundationSoundSwift */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = A38C7E181D76FB36004BFB84 /* Build configuration list for PBXNativeTarget "avFoundationSoundSwift" */;
+			buildConfigurationList = A38C7E181D76FB36004BFB84 /* Build configuration list for PBXNativeTarget "AVFoundationSoundSwift" */;
 			buildPhases = (
 				A38C7DEC1D76FB36004BFB84 /* Sources */,
 				A38C7DED1D76FB36004BFB84 /* Frameworks */,
@@ -140,14 +140,14 @@
 			);
 			dependencies = (
 			);
-			name = avFoundationSoundSwift;
+			name = AVFoundationSoundSwift;
 			productName = avFoundationSoundSwift;
 			productReference = A38C7DF01D76FB36004BFB84 /* AVFoundationSoundSwift.temp_caseinsensitive_rename.app */;
 			productType = "com.apple.product-type.application";
 		};
-		A38C7E031D76FB36004BFB84 /* avFoundationSoundSwiftTests */ = {
+		A38C7E031D76FB36004BFB84 /* AVFoundationSoundSwiftTests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = A38C7E1B1D76FB36004BFB84 /* Build configuration list for PBXNativeTarget "avFoundationSoundSwiftTests" */;
+			buildConfigurationList = A38C7E1B1D76FB36004BFB84 /* Build configuration list for PBXNativeTarget "AVFoundationSoundSwiftTests" */;
 			buildPhases = (
 				A38C7E001D76FB36004BFB84 /* Sources */,
 				A38C7E011D76FB36004BFB84 /* Frameworks */,
@@ -158,14 +158,14 @@
 			dependencies = (
 				A38C7E061D76FB36004BFB84 /* PBXTargetDependency */,
 			);
-			name = avFoundationSoundSwiftTests;
+			name = AVFoundationSoundSwiftTests;
 			productName = avFoundationSoundSwiftTests;
 			productReference = A38C7E041D76FB36004BFB84 /* AVFoundationSoundSwift.temp_caseinsensitive_rename.xctest */;
 			productType = "com.apple.product-type.bundle.unit-test";
 		};
-		A38C7E0E1D76FB36004BFB84 /* avFoundationSoundSwiftUITests */ = {
+		A38C7E0E1D76FB36004BFB84 /* AVFoundationSoundSwiftUITests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = A38C7E1E1D76FB36004BFB84 /* Build configuration list for PBXNativeTarget "avFoundationSoundSwiftUITests" */;
+			buildConfigurationList = A38C7E1E1D76FB36004BFB84 /* Build configuration list for PBXNativeTarget "AVFoundationSoundSwiftUITests" */;
 			buildPhases = (
 				A38C7E0B1D76FB36004BFB84 /* Sources */,
 				A38C7E0C1D76FB36004BFB84 /* Frameworks */,
@@ -176,7 +176,7 @@
 			dependencies = (
 				A38C7E111D76FB36004BFB84 /* PBXTargetDependency */,
 			);
-			name = avFoundationSoundSwiftUITests;
+			name = AVFoundationSoundSwiftUITests;
 			productName = avFoundationSoundSwiftUITests;
 			productReference = A38C7E0F1D76FB36004BFB84 /* AVFoundationSoundSwift.temp_caseinsensitive_rename.xctest */;
 			productType = "com.apple.product-type.bundle.ui-testing";
@@ -204,7 +204,7 @@
 					};
 				};
 			};
-			buildConfigurationList = A38C7DEB1D76FB36004BFB84 /* Build configuration list for PBXProject "avFoundationSoundSwift" */;
+			buildConfigurationList = A38C7DEB1D76FB36004BFB84 /* Build configuration list for PBXProject "AVFoundationSoundSwift" */;
 			compatibilityVersion = "Xcode 3.2";
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
@@ -217,9 +217,9 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				A38C7DEF1D76FB36004BFB84 /* avFoundationSoundSwift */,
-				A38C7E031D76FB36004BFB84 /* avFoundationSoundSwiftTests */,
-				A38C7E0E1D76FB36004BFB84 /* avFoundationSoundSwiftUITests */,
+				A38C7DEF1D76FB36004BFB84 /* AVFoundationSoundSwift */,
+				A38C7E031D76FB36004BFB84 /* AVFoundationSoundSwiftTests */,
+				A38C7E0E1D76FB36004BFB84 /* AVFoundationSoundSwiftUITests */,
 			);
 		};
 /* End PBXProject section */
@@ -282,12 +282,12 @@
 /* Begin PBXTargetDependency section */
 		A38C7E061D76FB36004BFB84 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = A38C7DEF1D76FB36004BFB84 /* avFoundationSoundSwift */;
+			target = A38C7DEF1D76FB36004BFB84 /* AVFoundationSoundSwift */;
 			targetProxy = A38C7E051D76FB36004BFB84 /* PBXContainerItemProxy */;
 		};
 		A38C7E111D76FB36004BFB84 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = A38C7DEF1D76FB36004BFB84 /* avFoundationSoundSwift */;
+			target = A38C7DEF1D76FB36004BFB84 /* AVFoundationSoundSwift */;
 			targetProxy = A38C7E101D76FB36004BFB84 /* PBXContainerItemProxy */;
 		};
 /* End PBXTargetDependency section */
@@ -460,7 +460,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		A38C7DEB1D76FB36004BFB84 /* Build configuration list for PBXProject "avFoundationSoundSwift" */ = {
+		A38C7DEB1D76FB36004BFB84 /* Build configuration list for PBXProject "AVFoundationSoundSwift" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				A38C7E161D76FB36004BFB84 /* Debug */,
@@ -469,7 +469,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		A38C7E181D76FB36004BFB84 /* Build configuration list for PBXNativeTarget "avFoundationSoundSwift" */ = {
+		A38C7E181D76FB36004BFB84 /* Build configuration list for PBXNativeTarget "AVFoundationSoundSwift" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				A38C7E191D76FB36004BFB84 /* Debug */,
@@ -478,7 +478,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		A38C7E1B1D76FB36004BFB84 /* Build configuration list for PBXNativeTarget "avFoundationSoundSwiftTests" */ = {
+		A38C7E1B1D76FB36004BFB84 /* Build configuration list for PBXNativeTarget "AVFoundationSoundSwiftTests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				A38C7E1C1D76FB36004BFB84 /* Debug */,
@@ -487,7 +487,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		A38C7E1E1D76FB36004BFB84 /* Build configuration list for PBXNativeTarget "avFoundationSoundSwiftUITests" */ = {
+		A38C7E1E1D76FB36004BFB84 /* Build configuration list for PBXNativeTarget "AVFoundationSoundSwiftUITests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				A38C7E1F1D76FB36004BFB84 /* Debug */,
